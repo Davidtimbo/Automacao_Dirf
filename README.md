@@ -1,7 +1,7 @@
 # Automação DIRF
 
-Este script Python automatiza o processo de geração de DIRF (Declaração do Imposto de Renda Retido na Fonte) para uma lista específica de códigos de prédios da empresa.
-
+- Este script Python automatiza o processo de geração de DIRF (Declaração do Imposto de Renda Retido na Fonte) para uma lista específica de códigos de prédios da empresa.
+- Script feito com objetivo de acelerar o processo de baixar centenas de DIRF ( +ou- 700 ) 
 
 ### Dependências
 Certifique-se de ter as bibliotecas necessárias instaladas usando o seguinte comando:
@@ -19,6 +19,7 @@ O script utiliza a biblioteca pyautogui para automatizar a interação com a int
 - Escreve "d" seguido do código específico do loop.
 - Salva o arquivo.
 - Fecha o programa.
+- E começa de novo.
 
 
 *O script é projetado para interagir com a interface gráfica, portanto, certifique-se de que as coordenadas e a sequência de ações estejam ajustadas para o ambiente específico em que você o está executando.*
